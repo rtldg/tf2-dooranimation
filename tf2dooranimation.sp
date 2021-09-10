@@ -1,3 +1,5 @@
+// you need to connect to the server with "connect ip:port matchmaking"
+
 #pragma semicolon 1
 #pragma newdecls required
 
